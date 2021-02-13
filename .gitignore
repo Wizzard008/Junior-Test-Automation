@@ -1,4 +1,16 @@
-*.db
-*.log
-/target
-/bit
+# Java files
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+target/
+test-output/
+
+# Idea
+.idea/
+*.iml
+
+#Exec files
+*.bat
